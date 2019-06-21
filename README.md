@@ -1,3 +1,7 @@
+# CoderSchool FTW - *To Do List*
+
+Created with love by: Viet Anh Nguyen
+
 ## Requirements
 [x] The user can run your program from the command line.
 
